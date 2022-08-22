@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.exe
+C:\Users\lenovo\source\repos\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.deps.json
+C:\Users\lenovo\source\repos\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.runtimeconfig.json
+C:\Users\lenovo\source\repos\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.dll
+C:\Users\lenovo\source\repos\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.pdb
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.dll
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.pdb
+C:\Users\lenovo\source\repos\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.genruntimeconfig.cache
